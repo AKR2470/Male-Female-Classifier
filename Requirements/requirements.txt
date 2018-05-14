@@ -1,0 +1,4 @@
+1. For only moving of files from folders within a folder to another folder.
+   Used to form Male and Female images folders from the dataset. (Dataset collected from -
+   http://cmp.felk.cvut.cz/~spacelib/faces/)
+2. 
